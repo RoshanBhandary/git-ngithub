@@ -10,3 +10,10 @@ Just an update
 
 nothing too creative here , just this
 
+
+## Local Development
+
+1. Open index.html in a browser
+2. Open the file and edit to make new changes to the file
+3. Also save the changes
+
